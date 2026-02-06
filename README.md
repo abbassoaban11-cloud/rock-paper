@@ -1,1 +1,3 @@
-# rock-paper
+#tec# rock-paper
+#teacher
+hd
